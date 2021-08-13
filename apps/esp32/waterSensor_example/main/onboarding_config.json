@@ -1,0 +1,19 @@
+{
+  "onboardingConfig": {
+    "deviceOnboardingId": "Water_Sensor",
+    "mnId": "fcig",
+    "setupId": "005",
+    "vid": "ST_c8744a49-c4af-4f4f-b502-ed24451cdd8d",
+    "deviceTypeId": "Others",
+    "ownershipValidationTypes": [
+      "JUSTWORKS"
+    ],
+    "identityType": "ED25519",
+    "deviceIntegrationProfileKey": {
+      "id": "49a79673-23bb-4753-a2e3-b7118273e026",
+      "majorVersion": 0,
+      "minorVersion": 1
+    },
+    "productId": "fc952dcb-cb60-45f6-86a2-4ff10937308e"
+  }
+}
